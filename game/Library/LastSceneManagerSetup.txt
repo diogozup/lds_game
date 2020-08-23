@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/Scenes/Game.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/About.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Scores.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Multiplayer.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Win.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Lose.unity
+  isLoaded: 0
+  isActive: 0
